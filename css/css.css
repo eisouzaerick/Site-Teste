@@ -1,0 +1,53 @@
+body {
+    margin-left: 150px;
+    font-family: arial;
+    color: #848484;
+}
+
+#this{
+    background: orange;
+    color: white;
+    padding-left: 25px;
+}
+
+.tituloPrincipal {
+    font-size: 25px;
+}
+
+p {
+    line-height: 30px;
+}
+
+.principal {
+    margin-top: 50px;
+    margin-right: 230px;
+    margin-bottom: 45px;
+    
+}
+h1 {
+    color: black;
+}
+
+img{
+   margin-top: 50px;
+    width: 600px;
+}
+
+
+
+figcaption {
+    font-size: 12px;
+    margin-bottom: 33px;
+    
+}
+
+ol{
+    list-style: none;
+    margin-left: -37px;
+    line-height: 30px;
+    color: #848484;
+}
+a {
+    color: #848484;
+    text-decoration: none;
+}
